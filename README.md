@@ -81,3 +81,5 @@ We evaluated each classifier's performance using metrics such as accuracy, preci
 
 Once you are satisfied with the performance of a particular classifier, you can deploy it in a real-world application or integrate it into a larger system for automatic fake news detection.
 ---
+# DATASETS
+https://drive.google.com/file/d/1mro-0o2WqMuQvFWNKKHqf22pSjqkmY5X/view?usp=drive_link
